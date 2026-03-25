@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Nutrafol",
+    "slug": "nutrafol-review",
+    "description": "Premium hair growth supplement backed by clinical studies",
+    "summary": "If you can afford $88/month and want the most clinically-studied hair supplement on the market, Nutrafol is the gold standard.",
+    "website": "nutrafol.com",
+    "rating": 4.5,
+    "pros": [
+      "Clinically studied",
+      "Targets multiple causes",
+      "Physician-formulated",
+      "Visible results 3-6 months"
+    ],
+    "cons": [
+      "$88/month is steep",
+      "Takes 3+ months",
+      "Large pills"
+    ],
+    "affiliate_url": "https://www.amazon.com/s?k=nutrafol+women+hair+growth&tag=invoicerank20-20"
+  },
+  {
+    "name": "Rogaine Minoxidil 5%",
+    "slug": "rogaine-review",
+    "description": "The FDA-approved topical treatment that actually works",
+    "summary": "Rogaine is the only FDA-approved topical for hair regrowth. Not glamorous but it works, and generic versions make it affordable.",
+    "website": "rogaine.com",
+    "rating": 4.3,
+    "pros": [
+      "FDA-approved",
+      "Proven effective",
+      "Generic versions cheap",
+      "Easy foam application"
+    ],
+    "cons": [
+      "Must use forever",
+      "Initial shedding possible",
+      "Scalp irritation risk"
+    ],
+    "affiliate_url": "https://www.amazon.com/s?k=rogaine+minoxidil+5+percent&tag=invoicerank20-20"
+  },
+  {
+    "name": "Vegamour GRO Serum",
+    "slug": "vegamour-gro-review",
+    "description": "Plant-based TikTok favorite for thicker hair",
+    "summary": "If you want a clean, vegan alternative to chemicals, Vegamour is the TikTok darling with decent results to back the hype.",
+    "website": "vegamour.com",
+    "rating": 4.2,
+    "pros": [
+      "100% vegan and clean",
+      "No harsh chemicals",
+      "Clinically tested",
+      "Lightweight serum"
+    ],
+    "cons": [
+      "$52/month",
+      "Slower than minoxidil",
+      "Subscription pushes"
+    ],
+    "affiliate_url": "https://www.amazon.com/s?k=vegamour+gro+hair+serum&tag=invoicerank20-20"
+  },
+  {
+    "name": "The Ordinary Hair Serum",
+    "slug": "ordinary-hair-serum-review",
+    "description": "Budget peptide serum from the skincare brand everyone trusts",
+    "summary": "At $18 this is the cheapest serious hair growth serum. The Ordinary brought their skincare philosophy to haircare.",
+    "website": "theordinary.com",
+    "rating": 4.0,
+    "pros": [
+      "Only $18",
+      "Science-backed peptides",
+      "No fragrance",
+      "Trusted brand"
+    ],
+    "cons": [
+      "Messy dropper",
+      "Takes 4-6 months",
+      "Can make hair greasy"
+    ],
+    "affiliate_url": "https://www.amazon.com/s?k=ordinary+multi+peptide+hair+density&tag=invoicerank20-20"
+  },
+  {
+    "name": "Biotin 10000mcg",
+    "slug": "biotin-supplements-review",
+    "description": "Classic affordable vitamin for hair, skin, and nails",
+    "summary": "Biotin is the cheapest entry point. Works best if you are actually deficient, which many people are without knowing.",
+    "website": "amazon.com",
+    "rating": 3.8,
+    "pros": [
+      "Very affordable $8-15",
+      "Available everywhere",
+      "Helps nails and skin too",
+      "Easy daily pill"
+    ],
+    "cons": [
+      "Limited evidence if not deficient",
+      "Can cause breakouts",
+      "Results vary widely"
+    ],
+    "affiliate_url": "https://www.amazon.com/s?k=biotin+10000mcg+hair+growth&tag=invoicerank20-20"
+  },
+  {
+    "name": "Rosemary Oil",
+    "slug": "rosemary-oil-review",
+    "description": "The TikTok natural remedy that studies say rivals minoxidil",
+    "summary": "Studies show rosemary oil can match minoxidil for hair growth. At $10 a bottle with zero side effects, best natural option.",
+    "website": "amazon.com",
+    "rating": 4.1,
+    "pros": [
+      "Under $10",
+      "Studies match minoxidil",
+      "No side effects",
+      "Smells great"
+    ],
+    "cons": [
+      "Daily application needed",
+      "Can be greasy",
+      "Need carrier oil"
+    ],
+    "affiliate_url": "https://www.amazon.com/s?k=rosemary+oil+for+hair+growth&tag=invoicerank20-20"
+  }
+]
